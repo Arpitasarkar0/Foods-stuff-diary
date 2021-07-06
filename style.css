@@ -98,10 +98,11 @@ padding: 20px;
 }
 #like{
  
-    width: 100%;
+    width: 700px;
     box-shadow:10px 10px 40px gray;
     border-radius: 10px;
     margin-top: 70px;
+    margin-left: 27%;
     text-align: center;
    
 
@@ -132,6 +133,7 @@ padding: 20px;
     
     margin-bottom: 100px;
     margin-top: 50px;
+    margin-left: 40px;
 
 
 
@@ -146,6 +148,6 @@ padding: 20px;
    
     font-size: 20px;
     border: 1px solid crimson;
-    box-shadow:10px 10px 40px crimson;
+    box-shadow:10px 10px 40px rgb(231, 143, 161);
 }
 
