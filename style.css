@@ -1,5 +1,6 @@
 body{
     font-family: 'Merriweather', serif;
+    margin: 0;
 }
 .container{
     position: relative;
@@ -28,6 +29,11 @@ body{
 .width img{
     width: 600px;
 }
+.third-banner{
+    display: flex;
+margin-top: 200px;
+
+}
 .button{
     text-decoration: none;
     background-image: radial-gradient(rgb(214, 42, 94),rgb(88, 3, 43));
@@ -44,23 +50,24 @@ body{
 
 #margin{
     margin-top: 08%;
-    margin-left: 5%;
+   
     
     background-image: url(food-network-main/images/shapes/Frame\ 58.jpg);
     background-size: cover;
     background-repeat:  no-repeat;
-    height: 550px;
-    width: 1350px;
+    height: 480px;
+    width: 100%
 }
     
 
 .bg-img{
     width: 40%;
-    margin: 5%;
+    padding-left: 15%;
+   
 }
 .text{
     width: 40%;
-    padding-left: 5px;
+    padding-right: 5px;
     padding-top: 100px;
 }
 .fourth-banner{
@@ -74,7 +81,7 @@ text-align: center;
     text-align: justify;
     width:20%;
     box-shadow:10px 10px 40px gray;
-margin: 3%;
+margin-left: 8%;
 padding: 20px;
    border-radius: 10px;
 }
@@ -91,12 +98,12 @@ padding: 20px;
 }
 #like{
  
-    width: 700px;
+    width: 100%;
     box-shadow:10px 10px 40px gray;
     border-radius: 10px;
     margin-top: 70px;
     text-align: center;
-    margin-left: 400px;
+   
 
 
 
