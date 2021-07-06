@@ -31,12 +31,92 @@ body{
 .button{
     text-decoration: none;
     background-image: radial-gradient(rgb(214, 42, 94),rgb(88, 3, 43));
-    padding: 10px 40px;
+    padding:10px 40px;
+    margin: 5px;
     color: mintcream;
     font-weight: 700;
     border-radius: 30px;
-    margin-left: 50px;
+    
+    
 
    
+}
+
+#margin{
+    margin-top: 08%;
+    margin-left: 5%;
+    
+    background-image: url(food-network-main/images/shapes/Frame\ 58.jpg);
+    background-size: cover;
+    background-repeat:  no-repeat;
+    height: 550px;
+    width: 1350px;
+}
+    
+
+.bg-img{
+    width: 40%;
+    margin: 5%;
+}
+.text{
+    width: 40%;
+    padding-left: 5px;
+    padding-top: 100px;
+}
+.fourth-banner{
+    margin: 50px;
+   
+}
+.text-align {
+text-align: center;
+}
+.img-with-text{
+    text-align: justify;
+    width:20%;
+    box-shadow:10px 10px 40px gray;
+margin: 3%;
+padding: 20px;
+   border-radius: 10px;
+}
+.img-with-text img{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+
+    
+}
+.last-banner{
+    display: flex;
+    
+}
+#like{
+ 
+    width: 700px;
+    box-shadow:10px 10px 40px gray;
+    border-radius: 10px;
+    margin-top: 70px;
+    text-align: center;
+    margin-left: 400px;
+
+
+
+}
+#same{
+    display: flex;
+    width: 100%;
+    padding-left: 50px;
+}
+#some{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+#footer { background-color: rgb(4, 4, 32) ;
+    
+    margin-top: 70px;
+    color: rgb(136, 136, 208);
+     text-align: center;
+     padding: 4px;
+
+
 }
 
